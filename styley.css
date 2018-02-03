@@ -1,0 +1,24 @@
+#content {
+    width: 500px;
+    margin: 0 auto 50px;
+	color: white; 
+	background: black; 
+   }
+   #footer {
+    position: fixed; 
+    left: 0; bottom: 0; 
+    padding: 10px; 
+    background: #191970; 
+    color: white; 
+    width: 100%; 
+   }
+   a {
+    color: black; 
+    background: white; 
+    padding: 0px; 
+    transition: 1s linear; 
+   }
+   a:hover {
+    color: #fff; 
+    background: #008;
+   }
